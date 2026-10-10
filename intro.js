@@ -1,7 +1,7 @@
 const user = {
     name: "Crown",
     age: 55,
-    favProgrammingL:  "Python"
+    favProgrammingLang:  "Python"
 }
 
 console.log(user)
