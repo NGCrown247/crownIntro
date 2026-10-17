@@ -13,4 +13,4 @@ const myStudents = [
     {name:"Sandra", age:36, phone: "09097873889"}
 ]
 
-console.log(myStudents[1])
+console.log(myStudents[1]);
