@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "learning/server.js",
-    "dev": "nodemon server2.js"
+    "dev": "nodemon week-02-node-express-assignment/server.js"
   },
   "repository": {
     "type": "git",
